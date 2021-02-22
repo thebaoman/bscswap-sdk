@@ -1,14 +1,14 @@
 {
-  "name": "@bscswap/sdk",
+  "name": "uniswap-bsc-sdk",
   "license": "MIT",
-  "version": "3.0.15",
+  "version": "3.0.19",
   "description": "🛠 An SDK for building applications on top of BSCswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/bscswap/bscswap-sdk.git",
+  "repository": "https://github.com/thebaoman/bscswap-sdk",
   "keywords": [
     "bscswap",
     "binance"
